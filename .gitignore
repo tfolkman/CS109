@@ -1,5 +1,9 @@
 *.py[cod]
 
+#Directories
+scientific-python-lectures/
+content/
+
 # C extensions
 *.so
 
