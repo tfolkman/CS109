@@ -4,6 +4,9 @@
 
 *.png
 
+#Data
+*.txt
+
 #Directories
 scientific-python-lectures/
 content/
